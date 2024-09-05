@@ -11,6 +11,7 @@ This repository is suited for students, educators, and anyone interested in deep
 1. Array
     - Static array
     - Dynamic array
+2. Hashmap
 3. Stack
 4. Queue
 5. Double-ended queue
